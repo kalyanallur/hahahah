@@ -1,2 +1,2 @@
 import random
-print (random.choice(["jackie","Raaj","gaalipata"]))
+print (random.choice(["jackie","Raaj","gaalipata"]))kk
